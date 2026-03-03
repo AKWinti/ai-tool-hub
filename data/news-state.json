@@ -1,5 +1,8 @@
 {
-  "date": "",
-  "count": 0,
-  "seenLinks": []
+  "date": "2026-03-03",
+  "count": 2,
+  "seenLinks": [
+    "https://huggingface.co/blog/Photoroom/prx-part3",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/"
+  ]
 }
