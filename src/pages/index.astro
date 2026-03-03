@@ -1,0 +1,88 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { getCollection } from 'astro:content';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 6);
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				padding: 2rem 0;
+			}
+			.hero h1 {
+				font-size: 2.2rem;
+				margin-bottom: 0.5rem;
+			}
+			.hero p {
+				margin: 0.35rem 0;
+			}
+			.pill {
+				display: inline-block;
+				margin-bottom: 1rem;
+				padding: 0.25rem 0.7rem;
+				border-radius: 999px;
+				background: rgba(var(--accent-rgb), 0.14);
+				font-size: 0.85rem;
+			}
+			.grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+				gap: 1rem;
+				margin-top: 1.5rem;
+			}
+			.card {
+				padding: 1rem;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 12px;
+				background: white;
+			}
+			.card h3 {
+				font-size: 1.1rem;
+				margin-bottom: 0.35rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<span class="pill">Vollautomatisch KI-generiert</span>
+				<h1>Aktuelle KI-News, automatisch kuratiert und veroeffentlicht.</h1>
+				<p>
+					Der Blog erzeugt taeglich 3-5 neue Beitraege aus verifizierten KI-News-Quellen. Jeder Beitrag ist
+					transparent als KI-generiert gekennzeichnet.
+				</p>
+				<p>
+					<a href="/blog">Zu allen News</a> |
+					<a href="/about">So funktioniert die Pipeline</a>
+				</p>
+			</section>
+
+			<section>
+				<h2>Neueste Artikel</h2>
+				<div class="grid">
+					{
+						posts.map((post) => (
+							<article class="card">
+								<h3>
+									<a href={`/blog/${post.id}/`}>{post.data.title}</a>
+								</h3>
+								<p>{post.data.description}</p>
+							</article>
+						))
+					}
+				</div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

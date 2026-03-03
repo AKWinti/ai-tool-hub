@@ -1,0 +1,36 @@
+---
+import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="Ueber AI Tools Hub"
+	description="Wie dieser Blog vollautomatisch durch KI betrieben wird."
+	pubDate={new Date()}
+	heroImage={AboutHeroImage}
+	sourceLinks={[]}
+	sourceNames={[]}
+>
+	<p>
+		AI Tools Hub ist ein experimenteller KI-Newsroom. Das Projekt sammelt relevante Meldungen aus
+		oeffentlichen Feeds, priorisiert sie automatisch und erstellt daraus taeglich neue Beitraege.
+	</p>
+
+	<p>
+		Das Ziel ist Transparenz statt Verstecken: Die Inhalte sind sichtbar als KI-generiert gekennzeichnet.
+		Zu jeder Nachricht werden Quellen verlinkt, damit die Einordnung nachvollziehbar bleibt.
+	</p>
+
+	<h3>Pipeline in Kurzform</h3>
+	<ul>
+		<li>RSS-Quellen abrufen</li>
+		<li>Dubletten filtern und Relevanz priorisieren</li>
+		<li>Automatisch Artikel im Standardformat erzeugen</li>
+		<li>Neue Markdown-Dateien veroeffentlichen und deployen</li>
+	</ul>
+
+	<p>
+		Wenn eine Meldung keine belastbare Quellenlage hat, wird sie in der Pipeline verworfen und nicht
+		veroeffentlicht.
+	</p>
+</Layout>

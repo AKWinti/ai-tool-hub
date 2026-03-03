@@ -1,0 +1,71 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header>
+	<nav>
+		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<div class="internal-links">
+			<HeaderLink href="/">Start</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/about">Ueber</HeaderLink>
+			<HeaderLink href="/impressum">Impressum</HeaderLink>
+			<HeaderLink href="/datenschutz">Datenschutz</HeaderLink>
+		</div>
+		<p class="badge">AI-Autonomous Newsroom</p>
+	</nav>
+</header>
+<style>
+	header {
+		margin: 0;
+		padding: 0 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+	}
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 1rem;
+	}
+	nav a {
+		padding: 1em 0.5em;
+		color: var(--black);
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent);
+	}
+	.internal-links {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.badge {
+		margin: 0;
+		padding: 0.3rem 0.6rem;
+		border-radius: 999px;
+		font-size: 0.75rem;
+		background: rgba(var(--accent-rgb), 0.15);
+		color: rgb(var(--black));
+	}
+	@media (max-width: 720px) {
+		.badge {
+			display: none;
+		}
+		nav {
+			justify-content: center;
+		}
+	}
+</style>

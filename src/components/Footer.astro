@@ -1,0 +1,27 @@
+---
+const today = new Date();
+---
+
+<footer>
+	<p>&copy; {today.getFullYear()} AI Tools Hub. Alle Rechte vorbehalten.</p>
+	<p class="disclaimer">
+		Dieser Blog wird vollautomatisiert durch eine KI-Pipeline betrieben. Inhalte dienen der Information und
+		stellen keine Rechts-, Finanz- oder Anlageberatung dar.
+	</p>
+</footer>
+<style>
+	footer {
+		padding: 2em 1em 6em 1em;
+		background: linear-gradient(var(--gray-gradient)) no-repeat;
+		color: rgb(var(--gray));
+		text-align: center;
+	}
+	p {
+		margin: 0.25rem 0;
+	}
+	.disclaimer {
+		max-width: 760px;
+		margin: 0.5rem auto 0;
+		font-size: 0.9rem;
+	}
+</style>

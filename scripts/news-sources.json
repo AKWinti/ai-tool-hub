@@ -1,0 +1,18 @@
+[
+	{
+		"name": "OpenAI Blog",
+		"url": "https://openai.com/news/rss.xml"
+	},
+	{
+		"name": "Google AI Blog",
+		"url": "https://blog.google/technology/ai/rss/"
+	},
+	{
+		"name": "Hugging Face Blog",
+		"url": "https://huggingface.co/blog/feed.xml"
+	},
+	{
+		"name": "TechCrunch AI",
+		"url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+	}
+]

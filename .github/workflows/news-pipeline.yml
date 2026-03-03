@@ -1,0 +1,45 @@
+name: AI News Pipeline
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node installieren
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Dependencies installieren
+        run: npm ci
+
+      - name: News generieren
+        env:
+          DAILY_POST_MIN: "3"
+          DAILY_POST_MAX: "5"
+          PER_RUN_LIMIT: "2"
+          MAX_CANDIDATE_AGE_HOURS: "48"
+        run: npm run generate:news
+
+      - name: Neue Inhalte committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/blog data/news-state.json
+          if git diff --staged --quiet; then
+            echo "Keine neuen Dateien."
+            exit 0
+          fi
+          git commit -m "Automatischer KI-News-Import"
+          git push
