@@ -1,10 +1,12 @@
 {
-  "date": "2026-03-03",
-  "count": 4,
+  "date": "2026-03-04",
+  "count": 2,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
     "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"
+    "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+    "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+    "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
   ]
 }
