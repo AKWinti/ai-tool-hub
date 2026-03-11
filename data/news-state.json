@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-10",
-  "count": 5,
+  "date": "2026-03-11",
+  "count": 2,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -40,6 +40,8 @@
     "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
     "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
     "https://openai.com/index/openai-to-acquire-promptfoo",
-    "https://huggingface.co/blog/ulysses-sp"
+    "https://huggingface.co/blog/ulysses-sp",
+    "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "https://huggingface.co/blog/nvidia/open-data-for-ai"
   ]
 }
