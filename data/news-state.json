@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -44,6 +44,7 @@
     "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "https://huggingface.co/blog/nvidia/open-data-for-ai",
     "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
+    "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+    "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/"
   ]
 }
