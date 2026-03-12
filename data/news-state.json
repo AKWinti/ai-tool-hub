@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -49,6 +49,7 @@
     "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
     "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
     "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-    "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/"
+    "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+    "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
   ]
 }
