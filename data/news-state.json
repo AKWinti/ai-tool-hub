@@ -1,6 +1,6 @@
 {
-  "date": "2026-03-21",
-  "count": 5,
+  "date": "2026-03-22",
+  "count": 2,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -95,6 +95,8 @@
     "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
     "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
+    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+    "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
   ]
 }
