@@ -1,6 +1,6 @@
 {
   "date": "2026-04-03",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -157,6 +157,8 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
     "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
     "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+    "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
   ]
 }
