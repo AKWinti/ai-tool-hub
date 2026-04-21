@@ -1,6 +1,6 @@
 {
-  "date": "2026-04-20",
-  "count": 5,
+  "date": "2026-04-21",
+  "count": 2,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -242,6 +242,8 @@
     "https://techcrunch.com/2026/04/19/the-12-month-window/",
     "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
     "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/"
+    "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
   ]
 }
