@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -284,6 +284,8 @@
     "https://openai.com/index/openai-available-at-fedramp-moderate",
     "https://openai.com/index/next-phase-of-microsoft-partnership",
     "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
+    "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
   ]
 }
