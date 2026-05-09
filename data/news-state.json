@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -334,6 +334,7 @@
     "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
     "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-    "https://huggingface.co/blog/allenai/emo"
+    "https://huggingface.co/blog/allenai/emo",
+    "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
   ]
 }
