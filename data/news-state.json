@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -337,6 +337,8 @@
     "https://huggingface.co/blog/allenai/emo",
     "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
     "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
   ]
 }
