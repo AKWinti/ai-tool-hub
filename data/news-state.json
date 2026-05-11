@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -342,6 +342,8 @@
     "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
     "https://openai.com/index/running-codex-safely",
     "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
   ]
 }
