@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -347,6 +347,8 @@
     "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
     "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
   ]
 }
