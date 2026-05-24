@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -407,6 +407,8 @@
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
     "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
     "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/"
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
   ]
 }
