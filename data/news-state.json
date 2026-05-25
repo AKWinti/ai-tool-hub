@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -412,6 +412,8 @@
     "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
     "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
     "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "https://huggingface.co/blog/agent-glossary"
   ]
 }
