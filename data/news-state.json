@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "count": 3,
+  "count": 5,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -447,6 +447,8 @@
     "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
   ]
 }
