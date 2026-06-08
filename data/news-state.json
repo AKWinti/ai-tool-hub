@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -481,6 +481,8 @@
     "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
     "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+    "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+    "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+    "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
   ]
 }
