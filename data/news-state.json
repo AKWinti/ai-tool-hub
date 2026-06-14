@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -513,6 +513,7 @@
     "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
     "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+    "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "https://huggingface.co/blog/allenai/olmo-eval"
   ]
 }
