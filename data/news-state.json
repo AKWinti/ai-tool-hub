@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25",
-  "count": 5,
+  "date": "2026-06-26",
+  "count": 2,
   "seenLinks": [
     "https://huggingface.co/blog/Photoroom/prx-part3",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
@@ -569,6 +569,8 @@
     "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
     "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
     "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "https://openai.com/index/how-agents-are-transforming-work"
+    "https://openai.com/index/how-agents-are-transforming-work",
+    "https://huggingface.co/blog/vllm-jobs",
+    "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
   ]
 }
