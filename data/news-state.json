@@ -1,9 +1,7 @@
 {
-  "date": "2026-07-10",
-  "count": 5,
+  "date": "2026-07-11",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "https://huggingface.co/blog/nvidia/open-data-for-ai",
     "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
     "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
     "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "https://openai.com/index/deutsche-telekom"
+    "https://openai.com/index/deutsche-telekom",
+    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
   ]
 }
