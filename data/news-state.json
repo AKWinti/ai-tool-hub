@@ -1,9 +1,7 @@
 {
-  "date": "2026-07-17",
-  "count": 5,
+  "date": "2026-07-18",
+  "count": 2,
   "seenLinks": [
-    "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-    "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
     "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
     "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
     "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "https://blog.google/products-and-platforms/products/search/connected-apps/"
+    "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
   ]
 }
