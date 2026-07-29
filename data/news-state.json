@@ -1,9 +1,7 @@
 {
   "date": "2026-07-29",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
     "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
     "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
     "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "https://openai.com/index/scientific-computing-agentic-ai",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
   ]
 }
