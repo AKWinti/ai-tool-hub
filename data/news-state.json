@@ -1,9 +1,7 @@
 {
-  "date": "2026-08-01",
-  "count": 5,
+  "date": "2026-08-02",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
     "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
     "https://openai.com/index/gradient-labs",
     "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "https://openai.com/index/ten-advances-in-mathematics"
+    "https://openai.com/index/ten-advances-in-mathematics",
+    "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
   ]
 }
