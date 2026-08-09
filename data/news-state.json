@@ -1,8 +1,7 @@
 {
   "date": "2026-08-09",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
     "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
     "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
     "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "https://openai.com/index/hsp-gruppe"
+    "https://openai.com/index/hsp-gruppe",
+    "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
   ]
 }
