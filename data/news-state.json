@@ -1,9 +1,7 @@
 {
   "date": "2026-08-10",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
     "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
     "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/hsp-gruppe",
     "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "https://huggingface.co/blog/muse-glimmer"
   ]
 }
