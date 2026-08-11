@@ -1,8 +1,7 @@
 {
   "date": "2026-08-11",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
     "https://openai.com/academy/custom-gpts",
     "https://openai.com/academy/customer-success",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
     "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
     "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+    "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
   ]
 }
