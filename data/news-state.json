@@ -1,9 +1,7 @@
 {
   "date": "2026-08-19",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
     "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
     "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
     "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
   ]
 }
