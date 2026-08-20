@@ -1,9 +1,7 @@
 {
-  "date": "2026-08-19",
-  "count": 5,
+  "date": "2026-08-20",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
     "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "https://techcrunch.com/2026/04/19/the-12-month-window/",
     "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "https://openai.com/index/chatgpt-ads-expands-across-europe"
+    "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
   ]
 }
