@@ -1,8 +1,7 @@
 {
   "date": "2026-08-25",
-  "count": 2,
+  "count": 3,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
     "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
     "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
     "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
     "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "https://openai.com/index/gpt-5-6-in-kiro"
+    "https://openai.com/index/gpt-5-6-in-kiro",
+    "https://huggingface.co/blog/gradio-workflow-guide"
   ]
 }
