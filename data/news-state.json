@@ -1,9 +1,7 @@
 {
   "date": "2026-08-26",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
     "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
     "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
@@ -601,6 +599,8 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+    "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
   ]
 }
