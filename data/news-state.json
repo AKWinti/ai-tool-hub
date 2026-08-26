@@ -1,9 +1,7 @@
 {
-  "date": "2026-08-25",
-  "count": 5,
+  "date": "2026-08-26",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
     "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
     "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/gpt-5-6-in-kiro",
     "https://huggingface.co/blog/gradio-workflow-guide",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
   ]
 }
