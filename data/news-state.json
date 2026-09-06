@@ -1,9 +1,7 @@
 {
   "date": "2026-09-06",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-    "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
     "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
     "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+    "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
   ]
 }
