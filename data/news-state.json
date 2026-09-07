@@ -1,9 +1,7 @@
 {
-  "date": "2026-09-06",
-  "count": 5,
+  "date": "2026-09-07",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
     "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
     "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
     "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "https://openai.com/index/an-alien-mind"
+    "https://openai.com/index/an-alien-mind",
+    "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
   ]
 }
