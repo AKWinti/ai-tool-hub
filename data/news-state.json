@@ -1,9 +1,7 @@
 {
   "date": "2026-09-07",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
     "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
     "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
     "https://openai.com/index/an-alien-mind",
     "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+    "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "https://openai.com/index/research-acceleration-view-inside-openai"
   ]
 }
