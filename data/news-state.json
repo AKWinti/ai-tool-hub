@@ -1,9 +1,7 @@
 {
-  "date": "2026-09-07",
-  "count": 5,
+  "date": "2026-09-08",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
     "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "https://openai.com/index/research-acceleration-view-inside-openai",
-    "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "https://openai.com/index/the-work-now-within-reach"
   ]
 }
