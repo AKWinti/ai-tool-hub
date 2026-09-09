@@ -1,8 +1,7 @@
 {
   "date": "2026-09-09",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://huggingface.co/blog/allenai/emo",
     "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
     "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
     "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
     "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+    "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
   ]
 }
