@@ -1,9 +1,7 @@
 {
   "date": "2026-09-09",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
     "https://huggingface.co/blog/allenai/emo",
     "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
     "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
     "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+    "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
   ]
 }
