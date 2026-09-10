@@ -1,8 +1,7 @@
 {
   "date": "2026-09-10",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
     "https://openai.com/index/running-codex-safely",
     "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+    "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "https://openai.com/index/put-data-to-work"
   ]
 }
