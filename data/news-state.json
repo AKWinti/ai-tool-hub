@@ -1,9 +1,7 @@
 {
-  "date": "2026-09-09",
-  "count": 5,
+  "date": "2026-09-10",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
     "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
     "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
     "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+    "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
   ]
 }
