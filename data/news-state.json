@@ -1,9 +1,7 @@
 {
-  "date": "2026-09-10",
-  "count": 5,
+  "date": "2026-09-11",
+  "count": 2,
   "seenLinks": [
-    "https://openai.com/index/running-codex-safely",
-    "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
     "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
     "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "https://openai.com/index/put-data-to-work"
+    "https://openai.com/index/put-data-to-work",
+    "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
   ]
 }
