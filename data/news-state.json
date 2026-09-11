@@ -1,8 +1,7 @@
 {
   "date": "2026-09-11",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
     "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
     "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
   ]
 }
