@@ -1,8 +1,7 @@
 {
   "date": "2026-09-23",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
     "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
     "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
     "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "https://openai.com/index/two-years-of-openai-academy"
   ]
 }
