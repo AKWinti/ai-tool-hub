@@ -1,9 +1,7 @@
 {
   "date": "2026-09-29",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
     "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
     "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
     "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
     "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
   ]
 }
