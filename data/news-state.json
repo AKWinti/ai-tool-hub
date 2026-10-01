@@ -1,8 +1,7 @@
 {
   "date": "2026-10-01",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "https://huggingface.co/blog/allenai/olmocore3",
-    "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+    "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
   ]
 }
