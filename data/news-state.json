@@ -1,9 +1,7 @@
 {
   "date": "2026-10-07",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-    "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
     "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
     "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
     "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
     "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+    "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
   ]
 }
