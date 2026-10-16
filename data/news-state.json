@@ -1,9 +1,7 @@
 {
-  "date": "2026-10-15",
-  "count": 5,
+  "date": "2026-10-16",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
     "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
     "https://huggingface.co/blog/allenai/olmo-eval",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
   ]
 }
