@@ -1,8 +1,7 @@
 {
   "date": "2026-10-23",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
     "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
@@ -601,6 +600,7 @@
     "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two"
   ]
 }
