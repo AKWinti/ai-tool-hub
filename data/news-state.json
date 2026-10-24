@@ -1,9 +1,7 @@
 {
-  "date": "2026-10-23",
-  "count": 5,
+  "date": "2026-10-24",
+  "count": 2,
   "seenLinks": [
-    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
     "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
     "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
@@ -601,6 +599,8 @@
     "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
   ]
 }
