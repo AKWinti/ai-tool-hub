@@ -1,9 +1,7 @@
 {
   "date": "2026-10-24",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
     "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+    "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://huggingface.co/blog/torch-neuronx-model-support"
   ]
 }
