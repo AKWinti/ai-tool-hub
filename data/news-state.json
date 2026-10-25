@@ -1,9 +1,7 @@
 {
-  "date": "2026-10-24",
-  "count": 5,
+  "date": "2026-10-25",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
     "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "https://openai.com/index/omio",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "https://openai.com/index/securing-our-frontier-model-training-environment",
     "https://huggingface.co/blog/torch-neuronx-model-support",
-    "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
   ]
 }
