@@ -1,8 +1,7 @@
 {
   "date": "2026-10-25",
-  "count": 2,
+  "count": 3,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
     "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "https://openai.com/index/omio",
     "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
@@ -601,6 +600,7 @@
     "https://huggingface.co/blog/torch-neuronx-model-support",
     "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
   ]
 }
