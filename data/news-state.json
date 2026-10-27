@@ -1,9 +1,7 @@
 {
   "date": "2026-10-27",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "https://openai.com/index/how-agents-are-transforming-work",
     "https://huggingface.co/blog/vllm-jobs",
     "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -601,6 +599,8 @@
     "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
   ]
 }
