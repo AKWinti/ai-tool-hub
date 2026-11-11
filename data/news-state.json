@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-10",
-  "count": 5,
+  "date": "2026-11-11",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
     "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
     "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
     "https://openai.com/index/closing-ai-guidance-gap-education",
     "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "https://huggingface.co/blog/qvac/botpsy"
   ]
 }
