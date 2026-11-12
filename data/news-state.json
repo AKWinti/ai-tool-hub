@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-11",
-  "count": 5,
+  "date": "2026-11-12",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "https://openai.com/index/deutsche-telekom",
@@ -601,6 +599,8 @@
     "https://huggingface.co/blog/qvac/botpsy",
     "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
     "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+    "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
   ]
 }
