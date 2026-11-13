@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-12",
-  "count": 4,
+  "date": "2026-11-13",
+  "count": 2,
   "seenLinks": [
-    "https://openai.com/index/deutsche-telekom",
-    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
     "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+    "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
   ]
 }
