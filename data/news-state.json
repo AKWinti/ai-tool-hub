@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-13",
-  "count": 5,
+  "date": "2026-11-14",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
     "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
     "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
     "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
   ]
 }
