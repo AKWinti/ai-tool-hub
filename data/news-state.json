@@ -1,9 +1,7 @@
 {
   "date": "2026-11-18",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
     "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -601,6 +599,8 @@
     "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
     "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "https://openai.com/index/introducing-chatgpt-for-sales"
+    "https://openai.com/index/introducing-chatgpt-for-sales",
+    "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
   ]
 }
