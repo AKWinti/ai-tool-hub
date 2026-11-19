@@ -1,9 +1,7 @@
 {
   "date": "2026-11-19",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -601,6 +599,8 @@
     "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
     "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "https://openai.com/index/the-silent-consensus",
+    "https://openai.com/index/research-acceleration-jagged-frontier"
   ]
 }
