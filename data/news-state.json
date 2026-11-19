@@ -1,8 +1,7 @@
 {
   "date": "2026-11-19",
-  "count": 4,
+  "count": 5,
   "seenLinks": [
-    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "https://blog.google/products-and-platforms/products/search/connected-apps/",
     "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
@@ -601,6 +600,7 @@
     "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
     "https://openai.com/index/the-silent-consensus",
-    "https://openai.com/index/research-acceleration-jagged-frontier"
+    "https://openai.com/index/research-acceleration-jagged-frontier",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
   ]
 }
