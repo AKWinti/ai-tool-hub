@@ -1,8 +1,7 @@
 {
   "date": "2026-11-20",
-  "count": 2,
+  "count": 3,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
@@ -601,6 +600,7 @@
     "https://openai.com/index/research-acceleration-jagged-frontier",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "https://huggingface.co/blog/harness-adapters-at-scale"
   ]
 }
