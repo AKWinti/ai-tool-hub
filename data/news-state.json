@@ -1,8 +1,7 @@
 {
-  "date": "2026-11-21",
-  "count": 3,
+  "date": "2026-11-22",
+  "count": 1,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -601,6 +600,7 @@
     "https://huggingface.co/blog/harness-adapters-at-scale",
     "https://openai.com/index/combatting-adversarial-distillation",
     "https://openai.com/business/customer-stories/hebbia",
-    "https://openai.com/index/introducing-medchembench"
+    "https://openai.com/index/introducing-medchembench",
+    "https://openai.com/index/perplexity-and-intelligence"
   ]
 }
