@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-22",
-  "count": 1,
+  "date": "2026-11-23",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
     "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/combatting-adversarial-distillation",
     "https://openai.com/business/customer-stories/hebbia",
     "https://openai.com/index/introducing-medchembench",
-    "https://openai.com/index/perplexity-and-intelligence"
+    "https://openai.com/index/perplexity-and-intelligence",
+    "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
   ]
 }
