@@ -1,9 +1,7 @@
 {
   "date": "2026-11-24",
-  "count": 2,
+  "count": 4,
   "seenLinks": [
-    "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-    "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
     "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
@@ -601,6 +599,8 @@
     "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
     "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
     "https://openai.com/index/introducing-shirudo",
-    "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "https://openai.com/index/ifood"
   ]
 }
