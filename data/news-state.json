@@ -1,9 +1,7 @@
 {
-  "date": "2026-11-24",
-  "count": 4,
+  "date": "2026-11-25",
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
     "https://openai.com/index/safety-alignment-long-horizon-models",
     "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
@@ -601,6 +599,8 @@
     "https://openai.com/index/introducing-shirudo",
     "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
     "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-    "https://openai.com/index/ifood"
+    "https://openai.com/index/ifood",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "https://openai.com/business/customer-stories/ifood"
   ]
 }
