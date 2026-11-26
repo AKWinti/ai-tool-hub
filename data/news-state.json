@@ -1,8 +1,7 @@
 {
   "date": "2026-11-26",
-  "count": 1,
+  "count": 2,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -601,6 +600,7 @@
     "https://openai.com/business/customer-stories/ifood",
     "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "https://openai.com/business/customer-stories/clay-plugins-openai",
-    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "https://huggingface.co/blog/training-swarms"
   ]
 }
