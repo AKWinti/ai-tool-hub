@@ -1,8 +1,7 @@
 {
-  "date": "2026-11-26",
-  "count": 2,
+  "date": "2026-11-27",
+  "count": 1,
   "seenLinks": [
-    "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
@@ -601,6 +600,7 @@
     "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "https://openai.com/business/customer-stories/clay-plugins-openai",
     "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "https://huggingface.co/blog/training-swarms"
+    "https://huggingface.co/blog/training-swarms",
+    "https://huggingface.co/blog/video-trainium3"
   ]
 }
